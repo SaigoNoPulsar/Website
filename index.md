@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Benvenuti nel sito di prova
 
-You can use the [editor on GitHub](https://github.com/SaigoNoPulsar/Website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Questo sarà un semplicissimo sito dove poter vedere e cercare i file dei sottotitoli degli anime, non rimanderà a download di nessun video o audio appartenente a nessuna azienda ma sarà solo un deposito dei file .str .ass da poter abbinare ad un file trovato o comprato al di fuori del sito.
 
 ### Markdown
 

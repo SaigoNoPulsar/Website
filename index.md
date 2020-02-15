@@ -2,6 +2,10 @@
 
 Questo sarà un semplicissimo sito dove poter vedere e cercare i file dei sottotitoli degli anime, non rimanderà a download di nessun video o audio appartenente a nessuna azienda ma sarà solo un deposito dei file .str .ass da poter abbinare ad un file trovato o comprato al di fuori del sito.
 
+### Elenco anime
+
+
+# COME EDITARE IL SITO
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for

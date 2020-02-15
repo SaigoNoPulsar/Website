@@ -3,6 +3,13 @@
 Questo sarà un semplicissimo sito dove poter vedere e cercare i file dei sottotitoli degli anime, non rimanderà a download di nessun video o audio appartenente a nessuna azienda ma sarà solo un deposito dei file .str .ass da poter abbinare ad un file trovato o comprato al di fuori del sito.
 
 ### Elenco anime
+- Accel World [Subtitle](https://socialanime.it/anime/89/accel-world) > Si ringrazia il fansubber: PIRIPAPPERO
+- Akame ga kill [subtitle](https://socialanime.it/anime/54/akame-ga-kill) > Si ringrazia il fansubber: MESTESSO
+- utawarerumoino > Si ringrazia il fansubber: ALFONSO
+- initial d
+- naruto
+- kill la kill
+
 
 
 # COME EDITARE IL SITO
